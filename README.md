@@ -64,5 +64,5 @@ Na maioria das distribuições Linux essas ferramentas já vêm instaladas.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/omnisearch.git
+git clone https://github.com/4RCH30N/omnisearch.git
 cd omnisearch
